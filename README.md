@@ -12,7 +12,7 @@
 
 
 
-- I’m currently working on **Game Hacking, and Reverse Engineering**
+- I’m currently working on **Game Hacking and Reverse Engineering**
 
 - Support/Help or Contact **Discord: arlc10**
 
